@@ -1,0 +1,4 @@
+[General]
+dns-server = 8.8.8.8, 8.8.4.4
+doh-server = https://dns-family.adguard.com/dns-query
+doh-follow-outbound-mode = true
