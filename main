@@ -2,6 +2,6 @@
 #!desc=Homemade,self used
 
 [General]
-dns-server = 8.8.8.8, 8.8.4.4
-doh-server = https://dns-family.adguard.com/dns-query
+dns-server = 223.5.5.5, 223.6.6.6
+doh-server = https://dns.alidns.com/dns-query
 doh-follow-outbound-mode = true
