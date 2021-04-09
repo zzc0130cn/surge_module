@@ -6,6 +6,6 @@ dns-server = 223.5.5.5, 223.6.6.6
 #doh-server = https://dns-family.adguard.com/dns-query
 doh-follow-outbound-mode = true
 
-[rule]
+[Rule]
 DOMAIN-SUFFIX,bilibili.com,REJECT
 DOMAIN-SUFFIX,gamersky.com,REJECT
