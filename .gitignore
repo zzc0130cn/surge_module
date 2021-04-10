@@ -128,6 +128,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Custom
-.block_set_surge
-.block_set_AGH
