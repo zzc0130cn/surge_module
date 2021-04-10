@@ -7,5 +7,4 @@ dns-server = 223.5.5.5, 223.6.6.6
 doh-follow-outbound-mode = true
 
 [Rule]
-DOMAIN-SUFFIX,bilibili.com,REJECT
-DOMAIN-SUFFIX,gamersky.com,REJECT
+DOMAIN-SET,https://raw.githubusercontent.com/zzc0130cn/surge_module/main/block_set_surge,REJECT
