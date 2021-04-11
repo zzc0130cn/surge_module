@@ -27,3 +27,4 @@ if __name__ == '__main__':
 
     with open("block_set_AGH", "w") as f1:
         f1.write(block_set_AGH)
+
