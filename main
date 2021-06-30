@@ -2,9 +2,9 @@
 #!desc=Homemade,self used
 
 [General]
-dns-server = 223.5.5.5, 223.6.6.6
+#dns-server = 223.5.5.5, 223.6.6.6
 #doh-server = https://dns-family.adguard.com/dns-query
-doh-follow-outbound-mode = true
+#doh-follow-outbound-mode = true
 
 [Rule]
 DOMAIN-SET,https://raw.githubusercontent.com/zzc0130cn/surge_module/main/block_set_surge,REJECT
